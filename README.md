@@ -34,6 +34,7 @@ customerId: 124,
 },
 ];
 
+[Ans]-
 const result = [
 {
 userId: 123,
